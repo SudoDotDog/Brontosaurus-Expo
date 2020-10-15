@@ -30,7 +30,7 @@
     "@types/react-native": "0.63.25",
     "babel-preset-expo": "8.3.0",
     "expo": "^39.0.3",
-    "react": "16.13.1",
+    "react": "16.14.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
     "react-native-web": "0.14.1",
     "react-native-webview": "^10.3.2"
