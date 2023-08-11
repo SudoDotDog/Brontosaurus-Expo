@@ -28,7 +28,7 @@
     "@sudoo/triforce": "^3.5.1",
     "@types/react": "^18.0.0",
     "@types/react-native": "0.72.0",
-    "babel-preset-expo": "9.3.2",
+    "babel-preset-expo": "9.5.1",
     "expo": "^49.0.4",
     "react": "18.2.0",
     "react-native": "https://github.com/expo/react-native/archive/sdk-35.0.0.tar.gz",
